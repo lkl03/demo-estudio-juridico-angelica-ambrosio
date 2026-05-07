@@ -1,2 +1,7 @@
-# demo-estudio-juridico-angelica-ambrosio
-Demo web para Estudio Jurídico Angélica Ambrosio — diseñada por eterlab.
+# Estudio Jurídico Angélica Ambrosio
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
